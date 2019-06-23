@@ -1,0 +1,97 @@
+\documentclass[10pt, a5paper]{book}
+\usepackage{fourier} % times, utopia fourier, palatino, courier, bookman, charter
+\input{preamble.tex}
+
+%% ----------------------------------------------------------------------------
+\usepackage[a5paper, margin=0.5in]{geometry}
+\author{GEGN}
+\title{Debating Casefile}
+
+%% ----------------------------------------------------------------------------
+\begin{document}\textbf{}
+
+% PREFACE ---------------------------------------------------------------------
+\pagenumbering{gobble}
+\input{title_page}
+
+% TABLE OF CONTENTS -----------------------------------------------------------
+\pagenumbering{roman}
+\begin{multicols}{2}
+{\scriptsize \tableofcontents}
+\vfill\null
+% \columnbreak
+
+\end{multicols}
+\pagebreak
+
+% CHAPTERS --------------------------------------------------------------------
+\pagenumbering{arabic}
+\pagebreak
+
+\input{clash_workshop.tex}
+
+\begin{multicols}{2}
+
+\chapter{Social}
+\input{social/drugs.tex}
+\input{social/religion.tex}
+\input{social/race.tex}
+\input{social/education.tex}
+\input{social/feminism.tex}
+
+\chapter{Technology}
+\input{tech/big_data.tex}
+\input{tech/bitcoin.tex}
+
+\chapter{Economy}
+\input{economy/automation.tex}
+\input{economy/piracy.tex}
+\input{economy/public_vs_private.tex}
+
+\chapter{Judicial}
+\input{justice/prison.tex}
+\input{justice/crime_punishment.tex}
+\input{justice/human_traficking.tex}
+
+\chapter{Political}
+\input{politics/populism.tex}
+\input{politics/soverign_free.tex}
+\input{politics/anarchy.tex}
+
+\chapter{Africa}
+\input{international/africa/congo.tex}
+
+\chapter{America}
+\input{international/america/united_states.tex}
+
+\chapter{Asia}
+\input{international/asia/china.tex}
+
+\chapter{Europe}
+\input{international/europe/russia.tex}
+
+\chapter{Middle east}
+\input{international/middle_east/iran.tex}
+\input{international/middle_east/syria.tex}
+\input{international/middle_east/reporting.tex}
+
+\vfill\null
+\columnbreak
+\end{multicols}
+
+% ENDING ----------------------------------------------------------------------
+\pagebreak
+\listoftodos[Areas of improvement]
+\vfill
+
+\pagebreak
+\printindex
+\vfill
+
+\pagebreak
+\bibliography{biblio}
+
+\end{document}
+
+
+

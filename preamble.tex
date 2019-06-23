@@ -1,0 +1,83 @@
+% !TEX root = ../debate_casefile.tex
+% \usepackage{scrhack}    								%FIX scrreprt
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{epstopdf}
+\usepackage{setspace}
+\usepackage{subcaption}
+\usepackage{sidecap}
+\usepackage{float}
+\usepackage[none]{hyphenat}
+\usepackage{imakeidx} \makeindex                      % Create index of content. Manually set \index{word} every time you'd like to make a reference to it
+\usepackage{bm}										% Bold mathematics
+\usepackage{eurosym}                                  % Euro symbol
+\usepackage{textcomp}                                 % Degree symbol
+\usepackage[font=footnotesize,labelfont=bf]{caption}  % Change caption's font
+\usepackage{multicol}                                 % Use Multiple Comlumns
+\usepackage{multirow}                                 % Use multiple rows
+\usepackage[toc,page]{appendix}                       % Make Appendix
+\usepackage{pdfpages}                                 % Attach PDF pages
+
+%% MAKING PARAGRAPHS A SUBSUBSUBSECTION
+\usepackage{titlesec}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+%% SETTING THE NUMBERING SCHEMES OF SECTIONS AND TABLE OF CONTENTS
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{2}
+
+%% DEFINE CUSTOM COLORS TO BE USED
+\definecolor{purple}{HTML}{550077}
+
+%% LINKS INSIDE THE DOCUMENT
+\usepackage[T1]{fontenc}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[colorlinks=true, allcolors=purple]{hyperref}
+
+%% MAKE A NOMENCLATURE
+\immediate\write18{makeindex -s nomencl.ist -o "\jobname.nls" "\jobname.nlo"}
+\usepackage{nomencl}
+\makenomenclature
+\usepackage{etoolbox}
+\renewcommand\nomgroup[1]{%
+  \item[\bfseries
+  \ifstrequal{#1}{I}{International Relations}{%
+  \ifstrequal{#1}{S}{Social}{%
+  \ifstrequal{#1}{J}{Justice}{%
+  \ifstrequal{#1}{T}{Technology}{}}}}%
+]}
+\sloppy
+  
+%% DUAL COLUMN FIGURES
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
+  % caption as: \captionof{figure}{my caption}
+
+%% DUAL COLUMN TABLES
+\newenvironment{Table}
+  {\par\bigskip\noindent\minipage{\columnwidth}\centering}
+  {\endminipage\par\bigskip}
+  % caption as: \captionof{table}{my caption}
+  
+%% CITATION FROM THE BIBLIOGRAPHY
+\usepackage[square,sort,comma,numbers]{natbib}
+\bibliographystyle{abbrvnat}
+
+%% ITEMIZE AND ENUMARATE - SEPARATION AND STYLE
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+\setenumerate{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+\renewcommand\labelitemi{\textcolor{purple}{$\diamond$}}
+
+%% PARAGRAPH INDENDATION
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}

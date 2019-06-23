@@ -1,0 +1,2096 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"index",
+				"index{entry}\tlatex-document"
+			],
+			[
+				"inp",
+				"input{file}\tlatex-document"
+			],
+			[
+				"inx",
+				"index{entry}\tlatex-document"
+			],
+			[
+				"sc",
+				"scriptsize\tlatex-document"
+			],
+			[
+				"newth",
+				"newtheoremstyle{stylename}{spaceabove}{spacebelow}{bodyfont}{indentamt}{headfont}{headpunct}{headspace}{headspec}\tamsthm"
+			],
+			[
+				"begin",
+				"begin{abstract}\tlatex-document"
+			],
+			[
+				"ce",
+				"centering\ttex"
+			],
+			[
+				"ragged",
+				"raggedleft\ttex"
+			],
+			[
+				"hspa",
+				"hspace{length}\tlatex-document"
+			],
+			[
+				"usepa",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"leftrig",
+				"leftrightharpoons\tamssymb"
+			],
+			[
+				"LATEX",
+				"LATEX_TABULAR\tstatement"
+			],
+			[
+				"LAT",
+				"LATEX_TABULAR\tstatement"
+			],
+			[
+				"inf",
+				"infty\tlatex-mathsymbols"
+			],
+			[
+				"rightlef",
+				"rightleftharpoons\tlatex-mathsymbols"
+			],
+			[
+				"vfi",
+				"vfill\ttex"
+			],
+			[
+				"righlef",
+				"rightleftharpoons\tlatex-mathsymbols"
+			],
+			[
+				"href",
+				"href{URL}{text}\thyperref"
+			],
+			[
+				"cite",
+				"citeauthor*{keylist}\tnatbib"
+			],
+			[
+				"citeau",
+				"citeauthor*{keylist}\tnatbib"
+			],
+			[
+				"vsp",
+				"vspace{length}\tlatex-document"
+			],
+			[
+				"begi",
+				"begin{abstract}\tlatex-document"
+			],
+			[
+				"ns",
+				"ns"
+			],
+			[
+				"hyp",
+				"hyperref[label]{text}\thyperref"
+			],
+			[
+				"per",
+				"per_type"
+			],
+			[
+				"My",
+				"MyNodes"
+			],
+			[
+				"list",
+				"list_z_position"
+			],
+			[
+				"listz_",
+				"list_z_position"
+			],
+			[
+				"list_",
+				"list_z_location"
+			],
+			[
+				"pr",
+				"pr\tprint_python"
+			],
+			[
+				"hea",
+				"heatEnabled"
+			],
+			[
+				"ste",
+				"stepsForHeat"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"ia",
+				"iaPipes"
+			],
+			[
+				"time",
+				"timeStep"
+			],
+			[
+				"continue",
+				"continueLastSimulation"
+			],
+			[
+				"old",
+				"oldTimeStep"
+			],
+			[
+				"itera",
+				"iterationEnd"
+			],
+			[
+				"iter",
+				"iterationStart"
+			],
+			[
+				"MyM",
+				"MyMethSynts"
+			],
+			[
+				"max",
+				"maxBulletSteps\tstatement"
+			],
+			[
+				"Cham",
+				"ChamberNode"
+			],
+			[
+				"c_",
+				"c_p"
+			],
+			[
+				"Old",
+				"OldElements"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"upda",
+				"updateControl"
+			],
+			[
+				"bulle",
+				"bulletTime"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"bull",
+				"bulletBool\tstatement"
+			],
+			[
+				"rand",
+				"randint\tfunction"
+			],
+			[
+				"boo",
+				"bulletBool\tstatement"
+			],
+			[
+				"bu",
+				"bulletTime\tstatement"
+			],
+			[
+				"pri",
+				"printList\tfunction"
+			],
+			[
+				"ori",
+				"original_multiplier\tstatement"
+			],
+			[
+				"bul",
+				"bulletTimeCounter\tstatement"
+			],
+			[
+				"prin",
+				"printList\tfunction"
+			],
+			[
+				"increas",
+				"IncreaseList\tfunction"
+			],
+			[
+				"maxi",
+				"maximumIncrement"
+			],
+			[
+				"New",
+				"NewList"
+			],
+			[
+				"compre",
+				"compressible"
+			],
+			[
+				"adso",
+				"adsorbDAC"
+			],
+			[
+				"va",
+				"vacuum_outlet\tstatement"
+			],
+			[
+				"vac",
+				"vacuum_pump_1\tstatement"
+			],
+			[
+				"s",
+				"sign"
+			],
+			[
+				"Air",
+				"AirInletElement"
+			],
+			[
+				"heat",
+				"heater"
+			],
+			[
+				"ads",
+				"adsorbDAC"
+			],
+			[
+				"rea",
+				"realTime"
+			],
+			[
+				"Sore",
+				"Sorbent_moles_CO2"
+			],
+			[
+				"tempe",
+				"temperature"
+			],
+			[
+				"Sor",
+				"Sorbent_mass"
+			],
+			[
+				"Sob",
+				"Sorbent_mass"
+			],
+			[
+				"get",
+				"getOriginalNodes"
+			],
+			[
+				"read",
+				"readPickle"
+			],
+			[
+				"write",
+				"writeTime"
+			],
+			[
+				"real",
+				"realTime"
+			],
+			[
+				"Val",
+				"Valve_1"
+			],
+			[
+				"ti",
+				"timeStep"
+			],
+			[
+				"List",
+				"List_Nodes"
+			],
+			[
+				"delt",
+				"delta_volume\tstatement"
+			],
+			[
+				"delta",
+				"delta_volume\tstatement"
+			],
+			[
+				"In",
+				"Interface_Element"
+			],
+			[
+				"Inter",
+				"Interface_Element"
+			],
+			[
+				"Li",
+				"Liquid_Node\tstatement"
+			],
+			[
+				"Va",
+				"Vapor_Node"
+			],
+			[
+				"coo",
+				"coord_B"
+			],
+			[
+				"coord",
+				"coord_A"
+			],
+			[
+				"ope",
+				"opened"
+			],
+			[
+				"pres",
+				"pressure_difference"
+			],
+			[
+				"press",
+				"pressure_allowable_difference"
+			],
+			[
+				"pressu",
+				"pressure_difference"
+			],
+			[
+				"H2",
+				"H2_Node"
+			],
+			[
+				"O2",
+				"O2_Node"
+			],
+			[
+				"MyEle",
+				"MyElements"
+			],
+			[
+				"from",
+				"fromPickle"
+			],
+			[
+				"node",
+				"node_id"
+			],
+			[
+				"upd",
+				"updateFan\tfunction"
+			],
+			[
+				"Fan",
+				"FanElement"
+			],
+			[
+				"q",
+				"q_star"
+			],
+			[
+				"Po",
+				"Porosity_part"
+			],
+			[
+				"So",
+				"Sorbent_moles\tstatement"
+			],
+			[
+				"q_",
+				"q_diff"
+			],
+			[
+				"Sorb",
+				"Sorbent_mass"
+			],
+			[
+				"Poro",
+				"Porosity_bed"
+			],
+			[
+				"CO",
+				"CO2_Re"
+			],
+			[
+				"MS",
+				"MS_Node"
+			],
+			[
+				"Outlet",
+				"Outlet_Element"
+			],
+			[
+				"Inl",
+				"Inlet_Element"
+			],
+			[
+				"Me",
+				"Membrane_Element"
+			],
+			[
+				"s_",
+				"s_o"
+			],
+			[
+				"project",
+				"project_dir\tstatement"
+			],
+			[
+				"test",
+				"test2\tmodule"
+			],
+			[
+				"i",
+				"init\tfunction"
+			],
+			[
+				"projec",
+				"project_dir"
+			],
+			[
+				"num",
+				"numPhases"
+			],
+			[
+				"listN",
+				"listNorm\tfunction"
+			],
+			[
+				"mole_",
+				"mole_numbers\tstatement"
+			],
+			[
+				"moles",
+				"moles_moved"
+			],
+			[
+				"comp",
+				"compounds"
+			],
+			[
+				"molar",
+				"molar_delta"
+			],
+			[
+				"up",
+				"updateMethanolSynthesis"
+			],
+			[
+				"av",
+				"avg_molar_weight"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"mola",
+				"molar_O2_gen\tstatement"
+			],
+			[
+				"H2_no",
+				"H2_node_id\tparam"
+			],
+			[
+				"O",
+				"O2_node_id"
+			],
+			[
+				"gas",
+				"gasGenerationModel\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vega/Documents/Delft/Debate/Trainings/0616 - Board Training/promotion_and_acquisition.md",
+			"settings":
+			{
+				"buffer_size": 5271,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Python2.7"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Python Anaconda 3.6"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Anaconda python3.6"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Anaconda python3.6"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"pdf",
+				"Project: Add Folder"
+			],
+			[
+				"book",
+				"Snippet: New Book"
+			],
+			[
+				"prea",
+				"Snippet: A preamble"
+			],
+			[
+				"pano",
+				"Pandoc"
+			],
+			[
+				"ss mm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"pna",
+				"Pandoc"
+			],
+			[
+				"image",
+				"Snippet: Markdown Image"
+			],
+			[
+				"fold",
+				"MarkdownEditing: Fold All Sections"
+			],
+			[
+				"un",
+				"Code Folding: Unfold All"
+			],
+			[
+				"pui",
+				"Packages UI"
+			],
+			[
+				"PRV",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PANDO",
+				"Pandoc"
+			],
+			[
+				"pandco",
+				"Pandoc"
+			],
+			[
+				"ss m",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"color",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"ss mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ss md",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ss lxing",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"ss lixni",
+				"Set Syntax: LaTeXing (Knitr)"
+			],
+			[
+				"ss markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"p inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"clean",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"root",
+				"Snippet: LaTeXing Option Root File"
+			],
+			[
+				"live pre",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"ss lex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"che",
+				"Google Spell Check"
+			],
+			[
+				"",
+				"AutoDocstring: All"
+			],
+			[
+				"ite",
+				"Snippet: \\item"
+			],
+			[
+				"item",
+				"Snippet: \\item"
+			],
+			[
+				"artic",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"tit",
+				"Snippet: New Title Page"
+			],
+			[
+				"title",
+				"Snippet: New Title Page"
+			],
+			[
+				"arit",
+				"Snippet: New Article"
+			],
+			[
+				"snip",
+				"Snippet: BibTeX Online Misc"
+			],
+			[
+				"le",
+				"Snippet: New Letter"
+			],
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"letter",
+				"Snippet: New Letter"
+			],
+			[
+				"art",
+				"Snippet: New Article"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python"
+			],
+			[
+				"code",
+				"Snippet: Code Listing Enviroment"
+			],
+			[
+				"ss lxin",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss late",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"titlep",
+				"Snippet: New Title Page"
+			],
+			[
+				"compar",
+				"Compare with..."
+			],
+			[
+				"mm",
+				"View: Toggle Minimap"
+			],
+			[
+				"ss csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"adva",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"prv o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"clea",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"prv  ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"latexing sett",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"thesis",
+				"Snippet: BibTeX PhD Thesis"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"jus",
+				"CSV: Justify columns"
+			],
+			[
+				"j",
+				"CSV: Justify columns"
+			],
+			[
+				"ss pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"ss c",
+				"Set Syntax: C++"
+			],
+			[
+				"mc",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build clea",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"latex cla",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"snip print",
+				"Snippet: print_python"
+			],
+			[
+				"snip pri",
+				"Snippet: print_python"
+			],
+			[
+				"c",
+				"Compare with..."
+			],
+			[
+				"anacond",
+				"Anaconda: Next lint error"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"comments",
+				"Unfold Comments"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"PUI",
+				"Packages UI"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"traili",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				"format",
+				"CSV: Format using template"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ju",
+				"CSV: Justify columns"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"new ve",
+				"File: New View into File"
+			],
+			[
+				"folde",
+				"Project: Add Folder"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"print",
+				"Snippet: print_python"
+			],
+			[
+				"Snippet: prin",
+				"Snippet: print_python"
+			],
+			[
+				"p ui",
+				"Packages UI"
+			],
+			[
+				"snip for",
+				"Snippet: For Loop"
+			],
+			[
+				"snipp",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"build py",
+				"Build With: Python"
+			],
+			[
+				"build python",
+				"Build With: Python"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"sele",
+				"Select Color Scheme"
+			],
+			[
+				"selec",
+				"Select Color Scheme"
+			],
+			[
+				"select them",
+				"Select Theme"
+			],
+			[
+				"select",
+				"Select Color Scheme"
+			]
+		],
+		"width": 590.0
+	},
+	"console":
+	{
+		"height": 406.0,
+		"history":
+		[
+			"kill = true",
+			"\"kill\": true",
+			"kill",
+			"break",
+			"cancel",
+			"stop",
+			"break",
+			"ccc",
+			"stop",
+			"clear",
+			"cleatr",
+			"stop",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/anaconda-2/anaconda.sock)",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"sudo import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"sys.version_info",
+			"print(subprocess.getoutput('python -c \"import sys; print(sys.version_info);\"'))",
+			"import subprocess",
+			"print(subprocess.getoutput('python -c \"import sys; print(sys.version_info);\"'))",
+			"import subprocess",
+			"print(subprocess.getoutput('python -c \"import sys; print(sys.version_info);\"'))",
+			"print",
+			"print(subprocess.getoutput('python -c \"import sys; print(sys.version_info);\"'))",
+			"import subprocess",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/v2/anaconda.sock)",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/v2/anaconda.sock)",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect('/home/vega/.local/share/anaconda/run/v2/anaconda.sock')",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(home/vega/.local/share/anaconda/run/v2/anaconda.sock)",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/v2/anaconda.sock)",
+			"import socket",
+			"clear",
+			"latexmk -c",
+			"print(subprocess.getoutput('python -c \"import sys; print(sys.version_info);\"'))",
+			"import subprocess",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/pi-ethylene-cracking/anaconda.sock)",
+			"a",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vega/.local/share/anaconda/run/pi-ethylene-cracking/anaconda.sock)",
+			"quit",
+			"2*54",
+			"1*54",
+			"1*3",
+			"1",
+			"aa",
+			"command: find"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/vega/Documents/Delft/Debate/Trainings/Board Training 0616/promotion_and_acquisition.md",
+		"/home/vega/Documents/Delft/Debate/Trainings/0616 - Board Training/workshop.md",
+		"/home/vega/Documents/Delft/Debate/Trainings/Board Training 0616/how_to_activate_members.md",
+		"/tmp/tmp431tsb.beamer",
+		"/home/vega/tuddc_board_application.md",
+		"/home/vega/Documents/Delft/Debate/debate_casefile/social/education.tex",
+		"/home/vega/Documents/Delft/Debate/debate_casefile/clash_workshop.tex",
+		"/home/vega/Documents/Delft/Debate/debate_casefile/,hidden",
+		"/media/vega/Library/Documents/Delft/Debate/debate_casefile/hidden",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/debate_casefile.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/politics/populism.tex",
+		"/D/Downloads/debating.md",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/debate_casefile.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/politics/populism.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/clash_workshop.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/social/drugs.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/social/education.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/debate_casefile.ind",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/middle_east/reporting.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/justice/human_traficking.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/middle_east/reporting.tex",
+		"/home/vega/Log/20180317_log.md",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/debate_casefile.pdf",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/vega/20180317_log.md",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/home/vega/openletter_diana_quiroz.md",
+		"/home/vega/test.md",
+		"/home/vega/.pandoc/wagler_template.tex",
+		"/home/vega/.pandoc/pdf_template.tex",
+		"/home/vega/.pandoc/default.latex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/social/feminism.tex",
+		"/home/vega/test_katex_selfcontained.html",
+		"/home/vega/test.html",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/Pandoc/Main.sublime-menu",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/Pandoc/Default.sublime-commands",
+		"/run/user/1000/72a89cdbdd0fdce1/storage/emulated/0/Epsilon/test.md",
+		"/run/user/1000/72a89cdbdd0fdce1/storage/emulated/0/Epsilon/SharedBuffer/180314 - Jan.md",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/latex_equation_preview.sublime-settings",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/MarkdownEditing/Default (Linux).sublime-keymap",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/MarkdownEditing/lint_docs/README.md",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/MarkdownEditing/screenshots/arcdark.png",
+		"/home/vega/motivation.md",
+		"/home/vega/motivation",
+		"/home/vega/Downloads/TUDelft_Beamer/presentation.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/.hidden",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/europe/russia.tex",
+		"/home/vega/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/solvers.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/preamble.tex",
+		"/home/vega/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/justice/crime_punishment.tex",
+		"/run/user/1000/72a89cdbdd0fdce1/storage/emulated/0/Epsilon/debate_casefile/debating.md",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/justice/crime_punishment.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/piracy.tex",
+		"/home/vega/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/automation.tex",
+		"/home/vega/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/economy.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/economy.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/social/drugs.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/automation.tex",
+		"/media/vega/Library/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/politics/soverign_free.tex",
+		"/home/vega/Documents/Programming/Scripts/KDE_install.sh",
+		"/home/vega/.Xmodmap",
+		"/usr/share/texlive/texmf-dist/tex/latex/mhchem/mhchem.sty",
+		"/home/vega/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/politics/free_ports.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/preamble.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/america/united_states.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/asia/china.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/europe/russia.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/international/middle_east/iran.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/justice/prison.tex",
+		"/D/Dropbox (ZEF)/Apps/ShareLaTeX/debate_casefile/economy/economy.tex",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/LaTeX.sublime-syntax",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Indentation Rules.tmPreferences",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Symbol List - Commands.tmPreferences",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Symbol List - Labels.tmPreferences",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Displaymath-($$).sublime-snippet",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/completions/LaTeX Bracketing Symbols.latexing-completions",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/completions/LaTeX Math.latexing-completions",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/completions/LaTeX Multi-Size Symbols.latexing-completions",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/completions/LaTeX Command Symbols.latexing-completions",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/completions/LaTeX Others.latexing-completions",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/Command Palette.sublime-commands",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/todo.sublime-snippet",
+		"/home/vega/Documents/Delft/Thesis/Latex/chapters/literature_survey.tex",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Item.sublime-snippet",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/helper.py",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/preview.py",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/Default (Linux).sublime-keymap",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/snippets/mathcal.sublime-snippet",
+		"/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/Default.sublime-keymap",
+		"/home/vega/Documents/Delft/Thesis/Latex/msc_thesis.tex",
+		"/home/vega/Documents/Delft/Thesis/Latex/nomenclature.tex",
+		"/home/vega/Documents/Delft/Thesis/Latex/chapters/flow.tex",
+		"/home/vega/Documents/Delft/Thesis/Latex/chapters/kinetics.tex",
+		"/media/vega/Library/Google Drive/Master Theses/GEGN/Latex/0",
+		"/media/vega/Library/Google Drive/Master Theses/GEGN/Latex/83",
+		"/home/vega/Documents/Delft/CONACYT/Carta Aumento Colegiatura/letter.tex",
+		"/run/media/vega/Library/Documents/Delft/CONACYT/Carta Aumento Colegiatura/.hidden",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Displaymath-($$).sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/chemical_ce.sublime-snippet",
+		"/home/vega/Documents/Delft/Thesis/Latex/biblio.bib",
+		"/run/media/vega/Library/Google Drive/Master Theses/GEGN/Latex/nomenclature.tex",
+		"/home/vega/Documents/Delft/Thesis/Latex/msc_thesis.toc",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Subitem.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Item.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Paragraph.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Equation.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/snippets/documentclass/Article.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/subsection-..-(sub).sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Section.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Bibtex.sublime-syntax",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/helper.py",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/preview.py",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Item[description].sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Description.sublime-snippet",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Snippets/Tabular.sublime-snippet",
+		"/home/vega/Documents/Delft/Thesis/Latex/chapters/history_of_ms.tex",
+		"/home/vega/Documents/Delft/Thesis/Latex/chapters/history_of_ms.te",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX Equation Preview/latex_equation_preview.sublime-settings",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/Default (Linux).sublime-keymap",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/snippets/math_operatorname.sublime-snippet",
+		"/home/vega/Documents/Delft/Thesis/Meetings/Wiebren-180201.txt",
+		"/home/vega/Dropbox (ZEF)/TeamZef/01_ZEF_Prototype/02_Engineering/02_Subsystems/09_SIM/02_Design/Documentation/zef-manual/img/drawing.tex",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeXing/snippets/elements/Nomenclature.sublime-snippet",
+		"/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty",
+		"/home/vega/Documents/Delft/Thesis/Latex/title_page.tex",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Symbol List - Labels.tmPreferences",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Symbol List - Commands.tmPreferences",
+		"/run/media/vega/Library/Backup/sublime-text-3/Packages/LaTeX/Symbol List - Sections.tmPreferences"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"+",
+			">",
+			".tex",
+			"\t\n",
+			"index{",
+			"eg.",
+			"Populism",
+			"bias",
+			"Hamas",
+			"font",
+			"fontfamily",
+			"//",
+			"document",
+			"usepackage",
+			"list",
+			"\\\\",
+			"__",
+			"html",
+			"katex",
+			"beamer",
+			"\t",
+			"-",
+			"_",
+			"#",
+			"- ",
+			"-",
+			"##",
+			"#",
+			"- ",
+			"-",
+			"Working",
+			"# ",
+			"jud",
+			"itemize",
+			"Prevention",
+			"20",
+			"color",
+			"colr",
+			"fancy",
+			"empty",
+			"pagestyle",
+			"Religion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vega/Documents/Delft/Debate/Trainings/0616 - Board Training/promotion_and_acquisition.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5097,
+								5097
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/MarkdownEditing/MultiMarkdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3036.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 426.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "debate_casefile.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wor",
+				"Board Training 0616/workshop.md"
+			],
+			[
+				"",
+				"debate_casefile/clash_workshop.tex"
+			],
+			[
+				"read",
+				"Board Training 0616/readme.md"
+			],
+			[
+				"drugs",
+				"social\\drugs.tex"
+			],
+			[
+				"fem",
+				"social/feminism.tex"
+			],
+			[
+				"case",
+				"debate_casefile.tex"
+			],
+			[
+				"pre",
+				"preamble.tex"
+			],
+			[
+				"rusi",
+				"international/europe/russia.tex"
+			],
+			[
+				"crime",
+				"justice/crime_punishment.tex"
+			],
+			[
+				"auto",
+				"economy/automation.tex"
+			],
+			[
+				"econ",
+				"economy/economy.tex"
+			],
+			[
+				"dru",
+				"social\\drugs.tex"
+			],
+			[
+				"msc",
+				"msc_thesis.tex"
+			],
+			[
+				"bib",
+				"biblio.bib"
+			],
+			[
+				"nom",
+				"nomenclature.tex"
+			],
+			[
+				"his",
+				"chapters/history_of_ms.tex"
+			],
+			[
+				"tex",
+				"msc_thesis.tex"
+			],
+			[
+				"bi",
+				"~/Documents/Delft/Thesis/Latex/biblio.bib"
+			],
+			[
+				"tit",
+				"Proposal/title_page.tex"
+			],
+			[
+				"write",
+				"classes/write.py"
+			],
+			[
+				"dac-",
+				"project-DAC/input/dac-script.zef"
+			],
+			[
+				".zef",
+				"project-DAC/input/dac-script.zef"
+			],
+			[
+				"script",
+				"project-1D_flow/input/1D_flow-script.zef"
+			],
+			[
+				"conf",
+				"config.py"
+			],
+			[
+				"zef",
+				"zef_solver.py"
+			],
+			[
+				"form",
+				"data/Latex Formulas/formulas.tex"
+			],
+			[
+				"formu",
+				"data/Latex Formulas/formulas.tex"
+			],
+			[
+				"zefr",
+				"zef_solver.py"
+			],
+			[
+				".tex",
+				"data/Latex Formulas/formulas.tex"
+			],
+			[
+				"cong",
+				"config.py"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"wir",
+				"classes/write.py"
+			],
+			[
+				"cond",
+				"solvers/conduction.py"
+			],
+			[
+				"wirte",
+				"classes/write.py"
+			],
+			[
+				"contro",
+				"solvers/control.py"
+			],
+			[
+				"fpro",
+				"solvers/fluidprops.py"
+			],
+			[
+				"scr",
+				"classes/scripting.py"
+			],
+			[
+				"csv",
+				"classes/csv_pickles.py"
+			],
+			[
+				"color",
+				"classes/color.py"
+			],
+			[
+				"nodes",
+				"classes/nodes.py"
+			],
+			[
+				"tes",
+				"test.py"
+			],
+			[
+				"pip",
+				"solvers/piping3.py"
+			],
+			[
+				"mix",
+				"solvers/mixing2.py"
+			],
+			[
+				"log",
+				"log_ms_iterationtime.py"
+			],
+			[
+				"log_no",
+				"log_ms_noBulletTime.py"
+			],
+			[
+				"solver",
+				"zef_solver.py"
+			],
+			[
+				"con",
+				"config.py"
+			],
+			[
+				"zefsolve",
+				"zef_solver_pre_bullettime.py"
+			],
+			[
+				"node",
+				"classes/nodes.py"
+			],
+			[
+				"pi",
+				"solvers/piping3.py"
+			],
+			[
+				"cont",
+				"solvers/control.py"
+			],
+			[
+				"air",
+				"solvers/aircapture.py"
+			],
+			[
+				"ai",
+				"solvers/aircapture.py"
+			],
+			[
+				"pipi",
+				"solvers/piping3.py"
+			],
+			[
+				"fluidp",
+				"solvers/fluidprops.py"
+			],
+			[
+				"flow",
+				"solvers/flowfield.py"
+			],
+			[
+				"no",
+				"classes/nodes.py"
+			],
+			[
+				"writ",
+				"classes/write.py"
+			],
+			[
+				"te",
+				"test.py"
+			],
+			[
+				"flowfi",
+				"solvers/flowfield.py"
+			],
+			[
+				"dac",
+				"project-DAC/input/dac-script.zef"
+			],
+			[
+				"script.zef",
+				"project-slab-wFlow/input/script.zef"
+			],
+			[
+				"wri",
+				"classes/write.py"
+			],
+			[
+				"nod",
+				"classes/nodes.py"
+			],
+			[
+				"ele",
+				"solvers/electrolysis.py"
+			],
+			[
+				"ms",
+				"ms_node3.csv"
+			],
+			[
+				"fluidv",
+				"classes/fluidvolume.py"
+			],
+			[
+				"c",
+				"classes/color.py"
+			],
+			[
+				"func",
+				"classes/functions.py"
+			],
+			[
+				"fluidpr",
+				"solvers/fluidprops.py"
+			],
+			[
+				"me",
+				"solvers/methanolsynthesis.py"
+			],
+			[
+				"fluid",
+				"solvers/fluidprops.py"
+			],
+			[
+				"p",
+				"solvers/piping3.py"
+			],
+			[
+				"lap",
+				"parse/laplace.py"
+			],
+			[
+				"codn",
+				"conduction.py"
+			],
+			[
+				"main",
+				"main.tex"
+			],
+			[
+				"block",
+				"~/OpenFOAM/vega-4.1/run/cavityGrade/system/blockMeshDict"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive (vega)/MscThesis/Text/LatexThesis/master_thesis.sublime-project"
+			],
+			[
+				"MSC",
+				"~/Documents/Delft/Thesis/Latex/msc_thesis.sublime-workspace"
+			],
+			[
+				"THES",
+				"~/Documents/Delft/Thesis/Latex/msc_thesis.sublime-workspace"
+			],
+			[
+				"code",
+				"~/Documents/Delft/Thesis/Code/thesis_code.sublime-project"
+			],
+			[
+				"manua",
+				"~/Dropbox (ZEF)/TeamZef/01_ZEF_Prototype/02_Engineering/02_Subsystems/09_SIM/02_Design/Documentation/enrique_manual.sublime-project"
+			],
+			[
+				"ms",
+				"~/Documents/Delft/Thesis/Code/thesis_code.sublime-project"
+			],
+			[
+				"thesis",
+				"~/Documents/Delft/Thesis/Latex/msc_thesis.sublime-project"
+			],
+			[
+				"msc",
+				"~/Documents/Delft/Thesis/Latex/msc_thesis.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Paragraph: CH3OH/Cu/ZnO/Al2O3 adsorption and reaction"
+			],
+			[
+				"exc",
+				"excludeNode"
+			],
+			[
+				"getPro",
+				"getProperties"
+			]
+		],
+		"width": 570.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
